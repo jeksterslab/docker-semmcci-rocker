@@ -8,7 +8,7 @@ Ivan Jacob Agaloos Pesigan
 
 ## Description
 
-A `rocker/rstudio` container for the `semmcci` package.
+A `rocker/rstudio` container for the [semmcci](https://github.com/jeksterslab/semmcci package).
 
 ## Run
 
