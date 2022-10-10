@@ -18,7 +18,7 @@ Run the following in the terminal.
 docker run --rm -ti -e PASSWORD=yourpassword -p 8787:8787 jeksterslab/semmcci-rocker
 ```
 
-Open `https://localhost:8787` on your web browser to launch `Rstudio Server`.
+Open `http://localhost:8787` on your web browser to launch `Rstudio Server`.
 
 - username: rstudio
 - password: yourpassword
