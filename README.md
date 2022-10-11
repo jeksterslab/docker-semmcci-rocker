@@ -3,7 +3,7 @@ jeksterslab/semmcci-rocker
 Ivan Jacob Agaloos Pesigan
 
 <!-- badges: start -->
-[![Docker Image CI](https://github.com/jeksterslab/docker-semmcci-rocker/actions/workflows/docker.yaml/badge.svg)](https://github.com/jeksterslab/docker-semmcci-rocker/actions/workflows/docker.yaml)
+[![Docker Build and Push](https://github.com/jeksterslab/docker-semmcci-rocker/actions/workflows/docker-build-push.yml/badge.svg)](https://github.com/jeksterslab/docker-semmcci-rocker/actions/workflows/docker-build-push.yml)
 <!-- badges: end -->
 
 ## Description
